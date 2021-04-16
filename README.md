@@ -7,5 +7,4 @@ I'm a ✨ _mathematician_ ✨ at [UFMG](https://ufmg.br) in Belo Horizonte, Braz
 - 👯 I’m looking to collaborate on research projects.
 - 🤔 I’m looking for help with many things...
 - 💬 Ask me about research ideas in mathematical physics.
-- 😄 Contribua para [gaal-elon](https://github.com/goliveira/gaal-elon) enviando uma solução.
-- ⚡ Welcome to my github page!
+- ⚡ Welcome to my github page! 😄
